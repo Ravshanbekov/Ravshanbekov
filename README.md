@@ -2,7 +2,7 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-<h3>I'm Muhammaddiyor!⚡ I'm Web developer!👨‍💻</h3>
+<h3>I'm Muhammaddiyor!⚡ Web developer!👨‍💻</h3>
 
 - 🌱 I’m currently learning Telegram bots
 - 💬 Ask me about Web sites Php and Fremwork Laravel
