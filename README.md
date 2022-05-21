@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning Telegram bots
 - 💬 Ask me about Web sites Php and Fremwork Laravel
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: My Nickname is Ravshanbekov
 - 📫 How to reach me: 
 
 <a href="https://t.me/Ravshanbekov_21"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
