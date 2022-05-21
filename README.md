@@ -5,7 +5,7 @@
 <h3>I'm Web developer!👨‍💻</h3>
 
 - 🌱 I’m currently learning Telegram bots
-- 💬 Ask me about Web sites Php Fremwork Laravel
+- 💬 Ask me about Web sites Php and Fremwork Laravel
 - 📫 How to reach me: 
 
 <a href="https://t.me/Ravshanbekov_21"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
