@@ -47,14 +47,6 @@
 
 <p align="center">
    
-![Ravshanbekov's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravshanbekov&theme=nord_dark)
-![Ravshanbekov's github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ravshanbekov&theme=nord_dark)
-![Ravshanbekov's github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravshanbekov&theme=nord_dark)
-![Ravshabvekov's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravshanbekov&theme=nord_dark)
-![Ravshanbekov's github stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ravshanbekov&theme=nord_dark)
-
-</p>
-
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <p align="center">
