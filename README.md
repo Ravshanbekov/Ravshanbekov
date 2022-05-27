@@ -16,44 +16,20 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p>
-<!--     <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/pugjs/pugjs-ar21.svg"></code> -->
-<!--     <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code> -->
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
     <code><img width="7%" src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<!--     <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> -->
-<!--     <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code> -->
-<!--     <code><img width="10%" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"></code> -->
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<!--     <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code> -->
-<!--     <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> -->
-     
-  
-<!--     <code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code> -->
 </p>
-
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-
-
 
 <p align="center">
    
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-<p align="center">
-   
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Ravshanbekov&column=6&theme=nord"/>
-
-</p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 
