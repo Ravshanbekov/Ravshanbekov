@@ -68,7 +68,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
     
-  <img align="right" alt="GIF" src="https://media0.giphy.com/media/26gssNZ4EF6c8Simk/giphy.gif?cid=ecf05e47jr0aroofz5fklifjikxlzjc1mc1t7rmd4zw9roj9&rid=giphy.gif&ct=g" width="400" height="300px" />
+  
     
   
 </div>
