@@ -8,8 +8,10 @@
 - 💬 Ask me about php Websites
 - 📫 How to reach me: 
 
-<a href="https://t.me/Ravshanbekov_21"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.instagram.com/_ravshanbekov_21/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/Ravshanbekov_21">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.instagram.com/_ravshanbekov_21/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
@@ -32,7 +34,8 @@
 
 <details open="">
   <p align="center">
-   <a href="https://github.com/Ravshanbekov/Ravshanbekov"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+   <a href="https://github.com/Ravshanbekov/Ravshanbekov">
+       <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
