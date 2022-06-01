@@ -1,6 +1,5 @@
 <h1 align="center">Ravshanbekov Muhammaddiyor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> -->
 <hr>
 
 <h3>I'm Web developer!👨🏻‍💻</h3>
@@ -14,8 +13,8 @@
 <a href="https://www.instagram.com/_ravshanbekov_21/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
+<hr>
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <h3 align="center">Languages and Tools:</h3>
 
 <p>
@@ -31,7 +30,7 @@
 
 <p align="center">
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<hr>
 
 <details open="">
   <p align="center">
@@ -39,6 +38,7 @@
        <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> -->
+<hr>
 .
 
