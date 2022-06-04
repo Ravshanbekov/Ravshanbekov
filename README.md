@@ -31,7 +31,6 @@
 <p align="center">
 
 <hr>
-
 <details open="">
   <p align="center">
    <a href="https://github.com/Ravshanbekov/Ravshanbekov">
