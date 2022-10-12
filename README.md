@@ -8,9 +8,9 @@
 - 💬 Ask me about php Websites
 - 📫 How to reach me: 
 
-<a href="https://t.me/Ravshanbekov_21">
+<a href="https://t.me/Ravshanov_021">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.instagram.com/_ravshanbekov_21/">
+<a href="https://www.instagram.com/_ravshanov_021/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 <hr>
